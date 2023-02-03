@@ -1,4 +1,4 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 With Typescript for Fivem
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
@@ -37,6 +37,12 @@ Locally preview production build:
 
 ```bash
 npm run preview
+```
+
+Generate static files:
+
+```bash
+npm run generate
 ```
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
