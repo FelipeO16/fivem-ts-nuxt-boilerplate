@@ -1,4 +1,4 @@
-# Nuxt 3 With Typescript for Fivem
+# Fivem Nuxt + TS Boilerplate
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
