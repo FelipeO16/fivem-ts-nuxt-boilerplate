@@ -1,11 +1,9 @@
 # Fivem Nuxt + TS Boilerplate
 
-```markdown
 ## Language / Idioma
 
 - [English](./README.md)
 - [Português](./README.pt.md)
-```
 
 The "fivem-ts-nuxt-boilerplate" is a boilerplate for web application development in the FiveM environment using the Nuxt.js framework and TypeScript. This boilerplate includes predefined configurations for both frameworks and basic resources to make it easier to create new projects.
 
