@@ -78,4 +78,4 @@ This command will start the Nuxt.js server in production mode, serving the compi
 npm run generate
 ```
 
-By doing so, it will generate the static files for FiveM, just link your script!
+By doing so, it will generate the static files for FiveM, just start your resource!
