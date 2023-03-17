@@ -67,7 +67,7 @@ yarn start
 
 This command will start the Nuxt.js server in production mode, serving the compiled files in the dist folder. Make sure to build the project before running this command.
 
-## Adicionando ao Fivem
+## Adding to FiveM
 
 ```bash
 npm run generate
